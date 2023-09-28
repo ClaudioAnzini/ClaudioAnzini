@@ -12,7 +12,7 @@
 <div href="https://github.com/ClaudioAnzini">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAnzini&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&bg_color=141424&title_color=e83d84&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAnzini&layout=donut&bg_color=141424&title_color=e83d84&text_color=ffffff&icon_color=2596be)](https://github.com/ClaudioAnzini/ClaudioAnzini"/>
 
 </div>
 
