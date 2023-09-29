@@ -29,6 +29,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ClaudioAnzini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+![Snake animation](https://github.com/ClaudioAnzini/ClaudioAnzini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
