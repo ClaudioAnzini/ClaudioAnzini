@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)&nbsp;
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioanzinineto123@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioanzinineto123@gmail.com)&nbsp;
       
 <div href="https://github.com/ClaudioAnzini">
 
@@ -15,24 +15,41 @@
 
 </div>
 
-### Ferramentas que eu utilizo no meu dia a dia 👾
+### Tools I use in my daily life 👾
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioAnzini&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ClaudioAnzini/ClaudioAnzini)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClaudioAnzini&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ClaudioAnzini/ClaudioAnzini)&nbsp;
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=ClaudioAnzini&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Snake animation](https://github.com/ClaudioAnzini/ClaudioAnzini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
+##
+
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+
+### I still want to learn 📚
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Node,js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
+
+&nbsp;
+
+### Workstation Tools 💻
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
-
-
