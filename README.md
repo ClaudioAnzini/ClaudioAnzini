@@ -7,6 +7,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioanzinineto123@gmail.com)&nbsp;
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/ClaudioAnzini)&nbsp;
+
       
 <div href="https://github.com/ClaudioAnzini">
 
