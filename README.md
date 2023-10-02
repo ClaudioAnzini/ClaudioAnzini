@@ -16,6 +16,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAnzini&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAnzini&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/ClaudioAnzini/ClaudioAnzini"/>
 
+###
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ClaudioAnzini&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
 </div>
 
 ### Tools I use in my daily life 👾
