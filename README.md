@@ -66,7 +66,6 @@
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ClaudioAnzini/)&nbsp;
-
 <p><img src="https://profile-counter.glitch.me/{ClaudioAnzini}/count.svg" /></p> 
 
 </div>
