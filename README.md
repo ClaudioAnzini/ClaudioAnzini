@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://github/ClaudioAnzini/)&nbsp;
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
@@ -59,5 +59,15 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+&nbsp;
+
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ClaudioAnzini/)&nbsp;
+
+<p><img src="https://profile-counter.glitch.me/{ClaudioAnzini}/count.svg" /></p> 
+
+</div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
