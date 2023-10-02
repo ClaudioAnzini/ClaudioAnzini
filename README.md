@@ -8,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:claudioanzinineto123@gmail.com)&nbsp;
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)](https://gitlab.com/ClaudioAnzini)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-anzini-neto-8a8201222/)&nbsp;
 
       
 <div href="https://github.com/ClaudioAnzini">
