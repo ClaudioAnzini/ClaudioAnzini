@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://github/ClaudioAnzini/)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Claudio+Anzini+Neto;I'm+17+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Campus+Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:%29)](https://github/ClaudioAnzini/)&nbsp;
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjyx4_WYgDuADAl4p3mdfUg)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theanzini?igshid=NzZlODBkYWE4Ng==)&nbsp;
